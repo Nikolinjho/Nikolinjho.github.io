@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "SF Pro Text";
+  font-weight: 400;
+  src:
+    local("../font/SFProText-Regular.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  font-weight: 500;
+  src:
+    local("../font/SFProText-Medium.ttf") format("ttf");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "SF Pro Text";
+  font-weight: 700;
+  src:
+    local("../font/SFProText-Bold.ttf") format("ttf");
+  font-display: swap;
+}
+
+* {
+  box-sizing: border-box;
+}
